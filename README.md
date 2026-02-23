@@ -8,7 +8,7 @@ In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
 
 ## What I work with
 
-**Frontend:** React · TypeScript · Apollo Client · Tailwind CSS
+**Frontend:** React · TypeScript · Apollo Client · Tailwind CSS · MUI · Styled Components
 
 **Backend:** Node.js · NestJS · GraphQL · REST APIs · BullMQ
 
