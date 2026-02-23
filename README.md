@@ -18,7 +18,7 @@ In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
 
 ## Featured projects
 - 🤖 [AI Data Analyst](https://github.com/vovadyach/ai-data-analyst-backend) — AI-powered document analysis tool built with FastAPI and Gemini AI
-- 📊 [Advisors Dashboard](https://github.com/vovadyach/next-advisors-dashboard) — Next.js dashboard
+- 📊 [Advisors Dashboard](https://github.com/vovadyach/next-advisors-dashboard) — Next.js App Router, Drizzle ORM, and Server Components
 
 ## Get in touch
 📫 Reach me on [LinkedIn](https://linkedin.com/in/diachenkovolodymyr)
