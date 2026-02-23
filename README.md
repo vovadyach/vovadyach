@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Volodymyr 👋
 
-<!--
-**vovadyach/vovadyach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Software Engineer with 9+ years building data-intensive web applications. Strong React/TypeScript expertise paired with backend ownership across NestJS, GraphQL, and PostgreSQL.
 
-Here are some ideas to get you started:
+Currently at **Prometheum** — owning end-to-end delivery of platform features with **React**, **NestJS**, **GraphQL**, and **PostgreSQL**. Building real-time trading dashboards, financial workflows, and GraphQL APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
+
+## What I work with
+
+**Frontend:** React · TypeScript · Apollo Client · Tailwind CSS
+
+**Backend:** Node.js · NestJS · GraphQL · REST APIs · BullMQ
+
+**Data:** PostgreSQL · Redis · TypeORM
+
+**Infra:** Docker · GitHub Actions · Jest
+
+## Featured projects
+- 🤖 [AI Data Analyst](https://github.com/vovadyach/ai-data-analyst-backend) — AI-powered document analysis tool built with FastAPI and Gemini AI
+- 📊 [Advisors Dashboard](https://github.com/vovadyach/next-advisors-dashboard) — Next.js dashboard
+
+## Get in touch
+📫 Reach me on [LinkedIn](https://linkedin.com/in/diachenkovolodymyr)
