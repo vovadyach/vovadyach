@@ -8,13 +8,13 @@ In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
 
 ## What I work with
 
-**Frontend:** React · TypeScript · Apollo Client · MUI · Styled Components · Tailwind CSS
+**Frontend:** React · TypeScript · GraphQL · Styled Components · Tailwind CSS
 
-**Backend:** Node.js · NestJS · GraphQL · REST APIs · BullMQ
+**Backend:** Node.js
 
-**Data:** PostgreSQL · Redis · TypeORM
+**Data:** PostgreSQL · Redis
 
-**Infra:** Docker · GitHub Actions · Jest
+**Infra:** Docker · GitHub Actions · Jenkins CI CD
 
 ## Featured projects
 - 🤖 [AI Data Analyst](https://github.com/vovadyach/ai-data-analyst-backend) — AI-powered document analysis tool built with FastAPI and Gemini AI
