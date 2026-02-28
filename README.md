@@ -14,7 +14,7 @@ In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
 
 **Data:** PostgreSQL · Redis
 
-**Infra:** Docker · GitHub Actions · Jenkins CI CD
+**Infra:** Docker · GitHub Actions · Jenkins CI/CD
 
 ## Featured projects
 - 🤖 [AI Data Analyst](https://github.com/vovadyach/ai-data-analyst-backend) — AI-powered document analysis tool built with FastAPI and Gemini AI
