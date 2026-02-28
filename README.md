@@ -1,24 +1,17 @@
 # Hey, I'm Volodymyr 👋
 
-Full-stack Software Engineer with 9+ years building data-intensive web applications. Strong React/TypeScript expertise paired with backend ownership across NestJS, GraphQL, and PostgreSQL.
+Full-Stack Engineer at Prometheum (SEC-registered 
+broker-dealer). Building market infrastructure for 
+digital asset securities.
 
-Currently at **Prometheum** — owning end-to-end delivery of platform features with **React**, **NestJS**, **GraphQL**, and **PostgreSQL**. Building real-time trading dashboards, financial workflows, and GraphQL APIs.
+React, TypeScript, GraphQL, Node.js, PostgreSQL
 
-In my own time, exploring **Next.js**, **Python/FastAPI**, and **Go**.
+Currently exploring Go and Python (FastAPI).
 
-## What I work with
+📌 AI Data Analyst — FastAPI + Gemini AI
 
-**Frontend:** React · TypeScript · GraphQL · Styled Components · Tailwind CSS
+📌 Go REST API — Go + PostgreSQL
 
-**Backend:** Node.js
-
-**Data:** PostgreSQL · Redis
-
-**Infra:** Docker · GitHub Actions · Jenkins CI/CD
-
-## Featured projects
-- 🤖 [AI Data Analyst](https://github.com/vovadyach/ai-data-analyst-backend) — AI-powered document analysis tool built with FastAPI and Gemini AI
-- 📊 [Advisors Dashboard](https://github.com/vovadyach/next-advisors-dashboard) — Next.js App Router, Drizzle ORM, and Server Components
 
 ## Get in touch
-📫 Reach me on [LinkedIn](https://linkedin.com/in/diachenkovolodymyr)
+Reach me on [LinkedIn](https://linkedin.com/in/diachenkovolodymyr)
