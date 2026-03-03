@@ -8,9 +8,9 @@ React, TypeScript, GraphQL, Node.js, PostgreSQL
 
 Currently exploring Go and Python (FastAPI).
 
-📌 AI Data Analyst — FastAPI + Gemini AI
+📌 AI Data Analyst — FastAPI + Gemini AI + Next.js + TanStack + Zustand
 
-📌 Go REST API — Go + PostgreSQL
+📌 Go REST API — Go + PostgreSQL + React + TanStack
 
 
 ## Get in touch
