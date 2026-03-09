@@ -10,7 +10,7 @@ Currently exploring Go and Python (FastAPI).
 
 📌 AI Data Analyst — FastAPI + Gemini AI + Next.js + TanStack + Zustand + TailwindCSS
 
-📌 Go REST API — Go + PostgreSQL + React + TanStack + TailwindCSS
+📌 Go Admin Panel — Go + PostgreSQL + React + TanStack + TailwindCSS
 
 
 ## Get in touch
