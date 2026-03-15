@@ -12,6 +12,3 @@ Currently exploring Go and Python (FastAPI).
 
 📌 Go Admin Panel — Go + PostgreSQL + React + TanStack + TailwindCSS
 
-
-## Get in touch
-Reach me on [LinkedIn](https://linkedin.com/in/diachenkovolodymyr)
