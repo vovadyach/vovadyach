@@ -2,7 +2,7 @@
 
 Senior Frontend Engineer (Full-Stack) — 10+ years building web applications, 6+ years frontend-focused.
 
-Currently at Prometheum, a SEC-registered broker-dealer, where I work full-stack on market infrastructure for digital asset securities.
+Currently at Prometheum (SEC-registered broker-dealer), building full-stack market infrastructure for digital asset securities.
 
 Stack: React, TypeScript, GraphQL, Node.js, PostgreSQL
 
