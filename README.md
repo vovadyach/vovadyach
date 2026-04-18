@@ -1,12 +1,10 @@
 # Hey, I'm Volodymyr 👋
 
-Full-Stack Engineer at Prometheum (SEC-registered 
-broker-dealer). Building market infrastructure for 
-digital asset securities.
+Senior Frontend Engineer (Full-Stack) — 10+ years building web applications, 6+ years frontend-focused.
 
-React, TypeScript, GraphQL, Node.js, PostgreSQL
+Currently at Prometheum, a SEC-registered broker-dealer, where I work full-stack on market infrastructure for digital asset securities.
 
-Currently exploring Go and Python (FastAPI).
+Stack: React, TypeScript, GraphQL, Node.js, PostgreSQL
 
 📌 AI Data Analyst — FastAPI + Gemini AI + Next.js + TanStack + Zustand + TailwindCSS
 
