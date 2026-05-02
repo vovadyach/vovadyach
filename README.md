@@ -6,6 +6,8 @@ Currently at Prometheum (SEC-registered broker-dealer), building full-stack mark
 
 Stack: React, TypeScript, GraphQL, Node.js, PostgreSQL
 
+<br>
+
 📌 [GraphQL Bench](https://gql-bench.vercel.app/) — Benchmarking NestJS GraphQL servers (Apollo, Mercurius, Yoga) on Express/Fastify with k6 load tests
 
 📌 AI Data Analyst — FastAPI + Gemini AI + Next.js + TanStack + Zustand + TailwindCSS
