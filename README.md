@@ -1,6 +1,6 @@
 # Hey, I'm Volodymyr 👋
 
-Senior Frontend Engineer (Full-Stack) — 10+ years building web applications, 6+ years frontend-focused.
+Senior Software Engineer — 10+ years building web applications, 6+ years frontend-focused.
 
 Currently at Prometheum (SEC-registered broker-dealer), building full-stack market infrastructure for digital asset securities.
 
