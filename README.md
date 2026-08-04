@@ -1,10 +1,11 @@
 # Hey, I'm Volodymyr 👋
 
-Senior Software Engineer — 10+ years building web applications, 6+ years frontend-focused.
+Senior Software Engineer — 10+ years building web applications end-to-end.
 
-Currently at Prometheum (SEC-registered broker-dealer), building full-stack market infrastructure for digital asset securities.
+Currently at Prometheum (SEC-registered broker-dealer), building market infrastructure for digital asset securities.
 
-Stack: React, TypeScript, GraphQL, Node.js, PostgreSQL
+Stack: React, TypeScript, GraphQL, Node.js/NestJS, PostgreSQL
+Also working with: Go, C#, Python
 
 <br>
 
