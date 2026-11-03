@@ -4,7 +4,7 @@ Senior Software Engineer — 10+ years building web applications end-to-end.
 
 Most recently at Prometheum (SEC-registered broker-dealer), building market infrastructure for digital asset securities.
 
-Stack: React, TypeScript, GraphQL, Node.js/NestJS, PostgreSQL
+Stack: React, Next.js, TypeScript, GraphQL, Node.js/NestJS, PostgreSQL, Redis
 
 Also working with: Go, C#, Python
 
